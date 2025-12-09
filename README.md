@@ -22,3 +22,5 @@ The game was built in the Python 3.13.7 with Python "random" library. So to run 
 
 Clone this repository to play the game:
 git clone https://github.com/Picard777/NumberGuessingGame.git
+
+Project URL: https://roadmap.sh/projects/number-guessing-game
